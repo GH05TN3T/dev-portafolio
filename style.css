@@ -4,7 +4,7 @@
 
 @layer demo {
   body {
-    background: light-dark(#fff, #000);
+    background: #000;
     display: flex;
     align-items: center;
     justify-content: center;
