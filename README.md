@@ -5,11 +5,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/GH05TN3T/dev-portafolio?style=for-the-badge&logo=github&color=yellow)](https://github.com/GH05TN3T/dev-portafolio/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/GH05TN3T/dev-portafolio?style=for-the-badge&logo=github&color=blue)](https://github.com/GH05TN3T/dev-portafolio/network)
 [![License](https://img.shields.io/github/license/GH05TN3T/dev-portafolio?style=for-the-badge&color=green)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://gh05tn3t-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=cloudflare)](https://dev.cyborgjedi.com)
 
 *🎯 Interactive portfolio showcasing cybersecurity and full-stack development expertise*
 
-[🌐 Live Demo](https://gh05tn3t-portfolio.vercel.app) • [📁 Source Code](https://github.com/GH05TN3T/dev-portafolio) • [🐛 Report Bug](https://github.com/GH05TN3T/dev-portafolio/issues)
+[🌐 Live Demo](https://dev.cyborgjedi.com) • [📁 Source Code](https://github.com/GH05TN3T/dev-portafolio) • [🐛 Report Bug](https://github.com/GH05TN3T/dev-portafolio/issues)
 
 </div>
 
@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GH05TN3T)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gh05tn3t-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=cloudflare&logoColor=white)](https://dev.cyborgjedi.com)
 
 </div>
 
